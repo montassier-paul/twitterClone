@@ -1,33 +1,10 @@
-# TwitterClone (package.json)
-
-A Quasar Project
-
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+# TwitterClone project to learn Vue.js  : https://youtu.be/la-0ulfn0_M
 
 
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
+technologie : Vue.js, Quasar, Firestore
+
+démo :
 
 
+https://user-images.githubusercontent.com/99366674/200129734-901d96bf-8d37-4171-95dc-dc005342cbce.mp4
 
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
